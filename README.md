@@ -1,10 +1,10 @@
 # Student-Result-Management-System
-This project would provide students to view their examination results in a simple way and also making it feasible for the admin/teacher to update or add results of students.
+This project would provide students to view their examination results 
 
 ## Tech Stack Used : 
 * Front end : HTML, CSS
 * Back end : PHP, MySQL
-* Server : Apache Server
+* Server : XAMPP Server
 
 ## Steps to run the code : 
 * Download the code and extract all the files from zip file.
